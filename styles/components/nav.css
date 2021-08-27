@@ -1,0 +1,19 @@
+.site-nav {
+    display: flex;
+    position: relative;
+    top: -13px;
+}
+
+.site-nav__link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.site-nav__link_active {
+    color: crimson;
+}
+
+.site-nav__item {
+    display: inline-block;
+    margin-right: 54px;
+}

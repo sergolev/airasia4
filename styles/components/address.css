@@ -1,0 +1,20 @@
+.site-address {
+    font-style: normal;
+    float: right;
+    flex-wrap: nowrap;
+}
+
+.site-address__link, .site-adrees__schedule {
+    color: #fff;
+}
+
+.site-address__link {
+    font-size: 26px;
+    line-height: 35px;
+    text-decoration: none;
+}
+
+.site-adrees__schedule {
+    width: max-content;
+    margin-left: auto;
+}
